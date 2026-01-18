@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Media / Large files
+*.mp4
+*.avi
+*.mov
+*.zip
+
+# Datasets
+dataset/
+data/
+
+# Model files
+*.h5
+*.pth
+*.pt
