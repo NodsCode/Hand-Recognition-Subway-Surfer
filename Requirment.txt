@@ -1,0 +1,6 @@
+Libraries :
+
+opencv-python
+mediapipe
+numpy
+pyautogui
